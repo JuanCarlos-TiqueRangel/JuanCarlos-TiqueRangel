@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h2 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h2>
+<h3 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h3>
 
 ### :man_technologist: About Me:
 
