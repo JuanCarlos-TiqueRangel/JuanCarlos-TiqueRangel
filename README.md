@@ -25,10 +25,10 @@
 
 - 👀 I’m interested in Control systems, robotics and AGVs vehicles
 - 🌱 I’m currently learning Model predictive control and Eigen library C++
-- Position estimation
-- Kalman Filter
+- Robot Localization
+- Kalman Filtering
 - 🦾 ROS1 and ROS2
-- Position estimation
+- Fluent in English and native spanish speaker.
 
 ### TOLS WHICH I LIKE TO USE
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/linux/linux.png"></code>
