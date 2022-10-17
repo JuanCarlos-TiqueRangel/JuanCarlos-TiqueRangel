@@ -23,6 +23,7 @@
 
 <img align="right" height="150" width="150" alt="y" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png" />
 
+- 🎓 B.Sc in Electronic Engineering
 - 👀 I’m interested in Control systems, robotics and AGVs vehicles
 - 🌱 I’m currently learning Model predictive control and Eigen library C++
 - Robot Localization
