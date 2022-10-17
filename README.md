@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juan Carlos Tique Rangel
+- 👋 Hi, I’m Juan Carlos Tique Rangel :man_technologist:
 - 👀 I’m interested in Control systems, AGVs vehicles
 - 🌱 I’m currently learning Model predictive control and Eigen library C++
 
