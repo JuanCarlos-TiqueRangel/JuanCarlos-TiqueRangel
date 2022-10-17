@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me:
 
-<img align="right" height="150" width="150" alt="" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png/>
+<img align="right" height="150" width="150" alt="y" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png" />
 
 - 👀 I’m interested in Control systems, robotics and AGVs vehicles
 - 🌱 I’m currently learning Model predictive control and Eigen library C++
