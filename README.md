@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi there, I'm Juan Carlos Tique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
   <a href="your-linkedin-URL">
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn Badge"/>
   </a>
@@ -13,13 +12,13 @@
   <a href="your-Gmail-URL">
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail"/>
   </a>
-  </h1>
+</h1>
 
 <h2 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h2>
 
 ### :man_technologist: About Me:
 
-<img align="right" height="150" width="150" alt="" src = "/home/juan/Desktop/Personal_portfolio/mars-rover.png" />
+<img align="right" height="150" width="150" alt="" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png />
 
 - 👀 I’m interested in Control systems, robotics and AGVs vehicles
 - 🌱 I’m currently learning Model predictive control and Eigen library C++
