@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi there, I'm Juan Carlos Tique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  
   <a href="your-linkedin-URL">
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn Badge"/>
   </a>
