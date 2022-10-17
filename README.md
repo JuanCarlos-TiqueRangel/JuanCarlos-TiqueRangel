@@ -12,7 +12,8 @@
   </a>
   <a href="your-Gmail-URL">
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail"/>
-  </a></h1>
+  </a>
+  </h1>
 
 <h2 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h2>
 
