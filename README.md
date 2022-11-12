@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/juan-carlos-tique-rangel-bb29a812a">
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" alt="Youtube Badge"/>
+  <a href="https://github.com/JuanCarlos-TiqueRangel">
+    <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" alt="git Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/300/300221.png" alt="Twitter Badge"/>
+    <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/300/300221.png" alt="web-page Badge"/>
   </a>
   <a href="your-Gmail-URL">
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail"/>
