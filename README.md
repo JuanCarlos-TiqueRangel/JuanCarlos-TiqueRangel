@@ -10,7 +10,7 @@
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/300/300221.png" alt="web-page Badge"/>
   </a>
   
-  <a href="https://github.com/JuanCarlos-TiqueRangel">
+  <a href="https://twitter.com/JuanCtique">
     <img height="40" width="40" alt="" src="https://user-images.githubusercontent.com/47435355/232180626-8641fc2e-fa37-46a5-8aab-db8b93e37f9c.png" alt="twitter Badge"/>
   </a>  
   
