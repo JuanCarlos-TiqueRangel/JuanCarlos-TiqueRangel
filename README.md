@@ -6,7 +6,7 @@
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/JuanCarlos-TiqueRangel">
-    <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" alt="git Badge"/>
+    <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" alt="twitter Badge"/>
   </a>
   <a href="http://juancarlostique.pythonanywhere.com/">
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/300/300221.png" alt="web-page Badge"/>
