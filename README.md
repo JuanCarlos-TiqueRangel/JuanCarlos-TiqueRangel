@@ -25,7 +25,7 @@
 ### :man_technologist: About Me:
 
 <img align="right" height="150" width="150" alt="y" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png" />
-
+<img align="right" alt="y" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" />
 
 <!--<img align="right" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" /> -->
 
@@ -37,7 +37,7 @@
 - 🦾 ROS1 and ROS2  
 - Fluent in English and native spanish speaker.
 
-<img align="right" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" />
+
 
 ### TOLS WHICH I LIKE TO USE
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/linux/linux.png"></code>
