@@ -25,6 +25,10 @@
 ### :man_technologist: About Me:
 
 <img align="right" height="150" width="150" alt="y" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png" />
+<p align="right">
+  ![](https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey)
+</p>
+<!--<img src="https://komarev.com/ghpvc/?username=lonebots&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lonebots" /> -->
 
 - 🎓 B.Sc in Electronic Engineering
 - 👀 I’m interested in Control systems, robotics and AGVs vehicles
@@ -51,7 +55,7 @@
 
 <img align="right" height="80" width="80" alt="" src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
 
-![](https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey)
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
