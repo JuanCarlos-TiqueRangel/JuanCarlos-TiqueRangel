@@ -17,6 +17,8 @@
   <a href="mailto:juancarlostiquerangel@gmail.com">
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail"/>
   </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" />
 </p>
 </h1>
 
@@ -27,7 +29,7 @@
 <img align="right" height="150" width="150" alt="y" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png" />
 
 
-<!--<img align="right" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" /> -->
+<!--<img src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" /> -->
 
 - 🎓 B.Sc in Electronic Engineering
 - 👀 I’m interested in Control systems, robotics and AGVs vehicles
@@ -36,8 +38,6 @@
 - Kalman Filtering
 - 🦾 ROS1 and ROS2  
 - Fluent in English and native spanish speaker.
-
-
 
 ### TOLS WHICH I LIKE TO USE
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/linux/linux.png"></code>
@@ -50,13 +50,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/arduino/arduino.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/723px-Ros_logo.svg.png"></code>
 
-
-
 [comment]: <> (💞️ I’m looking to collaborate on ...)
 
 <img align="right" height="80" width="80" alt="" src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
-
-<h3 align="right"><Hola mundo></h3>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
