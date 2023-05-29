@@ -22,10 +22,10 @@
 
 <h3 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h3>
 
-### :man_technologist: About Me:
+### :man_technologist: About Me: <img align="right" alt="y" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" />
 
 <img align="right" height="150" width="150" alt="y" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png" />
-<img align="right" alt="y" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" />
+
 
 <!--<img align="right" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" /> -->
 
