@@ -26,9 +26,9 @@
 
 <img align="right" height="150" width="150" alt="y" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png" />
 <p align="right">
-  ![](https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey)
+  <img align="right" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" />
 </p>
-<!--<img src="https://komarev.com/ghpvc/?username=lonebots&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lonebots" /> -->
+<!--<img align="right" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" /> -->
 
 - 🎓 B.Sc in Electronic Engineering
 - 👀 I’m interested in Control systems, robotics and AGVs vehicles
