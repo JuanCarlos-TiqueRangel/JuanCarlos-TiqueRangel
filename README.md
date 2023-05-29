@@ -22,7 +22,7 @@
 
 <h3 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h3>
 
-### :man_technologist: About Me: <img align="right" alt="y" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" />
+### :man_technologist: About Me: 
 
 <img align="right" height="150" width="150" alt="y" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png" />
 
@@ -56,7 +56,7 @@
 
 <img align="right" height="80" width="80" alt="" src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
 
-
+<img align="right" alt="y" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" />
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
