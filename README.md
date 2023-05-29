@@ -18,6 +18,8 @@
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail"/>
   </a>
 </p>
+  
+  ![](https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey)
 </h1>
 
 <h3 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h3>
@@ -45,7 +47,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/arduino/arduino.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/723px-Ros_logo.svg.png"></code>
 
-![](https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey)
+
 
 [comment]: <> (💞️ I’m looking to collaborate on ...)
 
