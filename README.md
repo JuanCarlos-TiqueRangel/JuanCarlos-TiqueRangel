@@ -18,8 +18,6 @@
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail"/>
   </a>
 </p>
-  
-  ![](https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey)
 </h1>
 
 <h3 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h3>
@@ -52,7 +50,7 @@
 [comment]: <> (💞️ I’m looking to collaborate on ...)
 
 <img align="right" height="80" width="80" alt="" src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
-
+![](https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey)
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
