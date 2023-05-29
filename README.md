@@ -54,7 +54,7 @@
 
 <img align="right" height="80" width="80" alt="" src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" /></p>
+<p align="right"><![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)></p>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
