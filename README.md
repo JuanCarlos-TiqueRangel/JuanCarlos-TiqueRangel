@@ -14,7 +14,7 @@
     <img height="40" width="40" alt="" src="https://user-images.githubusercontent.com/47435355/232180626-8641fc2e-fa37-46a5-8aab-db8b93e37f9c.png" alt="twitter Badge"/>
   </a>  
   
-  <a href="your-Gmail-URL">
+  <a href="mailto:juancarlostiquerangel@gmail.com">
     <img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail"/>
   </a>
 </p>
@@ -34,9 +34,9 @@
 - 🌱 I’m currently learning Model predictive control and Eigen library C++
 - Robot Localization
 - Kalman Filtering
-- 🦾 ROS1 and ROS2
+- 🦾 ROS1 and ROS2  <img align="right" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" />
 - Fluent in English and native spanish speaker.
-<img align="right" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" />
+
 
 ### TOLS WHICH I LIKE TO USE
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/linux/linux.png"></code>
