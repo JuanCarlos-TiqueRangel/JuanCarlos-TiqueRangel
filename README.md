@@ -56,7 +56,7 @@
 
 <img align="right" height="80" width="80" alt="" src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
 
-<img align="right" alt="y" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" />
+<img align="right" src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" />
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
