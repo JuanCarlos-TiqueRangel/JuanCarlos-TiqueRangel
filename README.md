@@ -42,13 +42,13 @@
 ### TOLS WHICH I LIKE TO USE
 <a><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
 <a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></a>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/matlab/matlab.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/bash/bash.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/latex/latex.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/arduino/arduino.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/723px-Ros_logo.svg.png"></code>
+<a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png"></a>
+<a><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.sv"></a>
+<a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/bash/bash.png"></a>
+<a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/sql/sql.png"></a>
+<a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/latex/latex.png"></a>
+<a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/arduino/arduino.png"></a>
+<a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/723px-Ros_logo.svg.png"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
