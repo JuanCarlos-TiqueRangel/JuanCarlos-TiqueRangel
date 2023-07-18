@@ -46,7 +46,7 @@
 <a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a>
 <a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></a>
 <a><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/sql/sql.png"></a>
+<a><img height="40" src="https://pngtree.com/freepng/database-glyph-black-icon_3754811.html.png"></a>
 <a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/latex/latex.png"></a>
 <a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/arduino/arduino.png"></a>
 <a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/723px-Ros_logo.svg.png"></a>
