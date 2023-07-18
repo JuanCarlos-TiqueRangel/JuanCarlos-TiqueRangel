@@ -50,7 +50,7 @@
 <a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/latex/latex.png"></a>
 <a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/arduino/arduino.png"></a>
 <a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/723px-Ros_logo.svg.png"></a>
-<a><img height="40" src="https://navigation.ros.org/_static/nav2_logo_powered.png"></a>
+<a><img height="40" src="https://avatars.githubusercontent.com/u/62168404?s=200&v=4"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
