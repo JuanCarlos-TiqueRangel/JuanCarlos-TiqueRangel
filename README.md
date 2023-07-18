@@ -44,7 +44,7 @@
 <a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></a>
 <a><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/bash/bash.png"></a>
+<a><img height="40" src="https://www.flaticon.es/icono-gratis/gnu-bash_919837?term=bash&page=1&position=1&origin=search&related_id=919837"></a>
 <a><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
 <a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/sql/sql.png"></a>
 <a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/latex/latex.png"></a>
