@@ -52,7 +52,7 @@
 <a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/723px-Ros_logo.svg.png"></a>
 <a href="https://navigation.ros.org/index.html"><img height="40" src="https://avatars.githubusercontent.com/u/62168404?s=200&v=4"></a>
 
-<a href="https://navigation.ros.org/index.html"><img height="40" src="https://classic.gazebosim.org/assets/logos/gazebo_vert_pos-fd53607be2db733ff38e9a9cdae9185722e5810ea7b089405dfd36917bc4c42f.png"></a>
+<a href="https://navigation.ros.org/index.html"><img height="40" src="https://newscrewdriver.files.wordpress.com/2018/07/gazebo.png"></a>
 <a href="https://navigation.ros.org/index.html"><img height="40" src="https://avatars.githubusercontent.com/u/62168404?s=200&v=4"></a>
 
 
