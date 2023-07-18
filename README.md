@@ -33,7 +33,7 @@
 
 - 🎓 B.Sc in Electronic Engineering
 - 👀 I’m interested in Control systems, robotics and AGVs vehicles
-- 🌱 I’m currently learning Model predictive control and Eigen library C++
+- 🌱 I’m currently learning Model predictive control and Using Nav2 in C++ and Python 
 - Robot Localization
 - Kalman Filtering
 - 🦾 ROS1 and ROS2  
