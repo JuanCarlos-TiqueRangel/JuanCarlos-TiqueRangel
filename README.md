@@ -61,11 +61,11 @@
 
 <p align="right"><![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlos-TiqueRangel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlos-TiqueRangel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--<img align="right" src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
