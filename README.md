@@ -5,9 +5,9 @@
   <a href="http://juancarlostique.pythonanywhere.com/"><img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/300/300221.png" alt="web-page Badge"/></a>
   <a href="https://twitter.com/JuanCtique"><img height="40" width="40" alt="" src="https://user-images.githubusercontent.com/47435355/232180626-8641fc2e-fa37-46a5-8aab-db8b93e37f9c.png" alt="twitter Badge"/></a>  
   <a href="mailto:juancarlostiquerangel@gmail.com"><img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" />
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" />
 
 <h3 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h3>
 
