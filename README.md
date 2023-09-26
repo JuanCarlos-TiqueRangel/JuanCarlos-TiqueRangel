@@ -22,22 +22,6 @@
 <h3 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h3>
 
 ### :man_technologist: About Me: 
-
-<img align="right" height="150" width="150" alt="y" src = "https://cdn-icons-png.flaticon.com/128/947/947680.png" />
-<h1 align="center">👋 Hello there! I'm Alejandro Zambrano 👋</h1>
-<p align="center">
-<a href="https://alejandrozz.pythonanywhere.com/" target="blank"><img src="https://alejandrozz.pythonanywhere.com/static/images/AZ_Logo_Nuevo.png" alt="" width="200"></a>
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/AlejandroZambranoZabaleta/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="30"></a>&nbsp&nbsp
-<a href="https://www.instagram.com/_alejo_zambrano_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="" height="30" /></a>&nbsp&nbsp
-  <a href="https://twitter.com/alejozambranoz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="" height="30" /></a>&nbsp&nbsp
-<a href="https://alejandrozz.pythonanywhere.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="" height="30" /></a>
-</p>
-
-<h3 align="center"> 🦾 I'm passionate about electronics, automation and artificial intelligence 🚀</h3>
-
-
 <!--<img src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" /> -->
 
 - 🎓 B.Sc in Electronic Engineering
