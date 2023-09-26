@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi there, I'm Juan Carlos Tique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi there, I'm Juan Carlos Tique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">  
   <a href="https://www.linkedin.com/in/juan-carlos-tique-rangel-bb29a812a">
@@ -19,7 +18,6 @@
   </a>
 </p>
   <img src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" />
-</h1>
 
 <h3 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h3>
 
