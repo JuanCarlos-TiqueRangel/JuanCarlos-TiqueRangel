@@ -7,8 +7,6 @@
   <a href="mailto:juancarlostiquerangel@gmail.com"><img height="40" width="40" alt="" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail"/></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" /></p>
-
 <h3 align="center"> A passionate electronic enginner with interest in Robotics, control systems and motion planning 🚀 </h3>
 
 ### :man_technologist: About Me: 
