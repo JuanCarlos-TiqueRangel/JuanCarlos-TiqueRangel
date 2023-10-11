@@ -39,8 +39,6 @@
 
 <img align="right" height="80" width="80" alt="" src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
 
-<p align="right"><![](https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&style=flat-square)></p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlos-TiqueRangel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
