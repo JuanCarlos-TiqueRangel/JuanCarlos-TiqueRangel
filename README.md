@@ -21,19 +21,24 @@
 - Fluent in English and native spanish speaker.
 
 ### Languages and Tools:
-<a><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
-<a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-<a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a>
-<a><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
-<a><img height="40" src="https://cdn-icons-png.flaticon.com/128/1265/1265531.png"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/latex/latex.png"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/arduino/arduino.png"></a>
-<a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/723px-Ros_logo.svg.png"></a>
-<a href="https://navigation.ros.org/index.html"><img height="40" src="https://avatars.githubusercontent.com/u/62168404?s=200&v=4"></a>
-<a><img height="40" src="https://newscrewdriver.files.wordpress.com/2018/07/gazebo.png"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png"></a>
+<p align="center"> 
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="60"></a>
+<a><img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="60"></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60"></a>
+<a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"></a>
+<a><img src="https://cdn-icons-png.flaticon.com/128/1265/1265531.png" width="60"></a>
+<a><img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/latex/latex.png" width="60"></a>
+<a><img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/arduino/arduino.png" width="60"></a>
+<a><img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" height="60" width="120"></a>
+<a> <img src="https://avatars.githubusercontent.com/u/62168404?s=200&v=4" width="60"></a>
+<a><img src="https://classic.gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg" width="60"></a>
+<a><img src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" width="80"></a>
+<a><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"></a>
+</p>
+
+
 
 <img align="right" height="80" width="80" alt="" src = "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
 
