@@ -27,7 +27,6 @@
 <a><img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="60"></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60"></a>
-<a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"></a>
 <a><img src="https://cdn-icons-png.flaticon.com/128/1265/1265531.png" width="60"></a>
 <a><img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/arduino/arduino.png" width="60"></a>
 <a><img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" height="60" width="120"></a>
