@@ -18,7 +18,6 @@
 - Robot Localization
 - Control Systems
 - 🦾 ROS1 and ROS2  
-- Fluent in English and native spanish speaker.
 
 ### Languages and Tools:
 <p align="center"> 
