@@ -12,11 +12,11 @@
 ### :man_technologist: About Me: 
 <!--<img src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" /> -->
 
-- 🎓 B.Sc in Electronic Engineering
-- 👀 I’m interested in Control systems, robotics and AGVs vehicles
-- 🌱 I’m currently learning Model predictive control and Using Nav2 in C++ and Python 
+- 🎓 Robotics Engineer
+- 👀 I’m interested in Control systems and Robotics
+- 🌱 I’m currently learning Optimal Control and Learning based methods for Control 
 - Robot Localization
-- Control Systems
+- Control Theroy
 - 🦾 ROS1 and ROS2  
 
 ### Languages and Tools:
