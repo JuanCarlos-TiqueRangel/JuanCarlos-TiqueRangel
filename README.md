@@ -12,7 +12,7 @@
 ### :man_technologist: About Me: 
 <!--<img src="https://komarev.com/ghpvc/?username=JuanCarlos-TiqueRangel&color=lightgrey" alt="JCTR" /> -->
 
-- 🎓 Robotics Engineer
+- 🎓 MS.c. Electrical Engineer
 - 👀 I’m interested in Control systems and Robotics
 - 🌱 I’m currently learning Optimal Control and Meta Learning for Control
 - Robot Localization
