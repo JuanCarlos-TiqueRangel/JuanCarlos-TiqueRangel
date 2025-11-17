@@ -14,7 +14,7 @@
 
 - 🎓 Robotics Engineer
 - 👀 I’m interested in Control systems and Robotics
-- 🌱 I’m currently learning Optimal Control and Learning based methods for Control 
+- 🌱 I’m currently learning Optimal Control and Meta Learning for Control
 - Robot Localization
 - Control Theroy
 - 🦾 ROS1 and ROS2  
